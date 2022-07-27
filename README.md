@@ -1,4 +1,4 @@
-# <p align="center"> Internship task </p>
+# <p align="center"> Internship task  [(CLICK HERE FOR MAIN CODE)](https://github.com/Carmui/GUS_ZADANIA/blob/main/Shadow_Economy_Modeling/EDA_Modelling.ipynb)</p>
 
 ***Warning - codes are commented in the polish language***
 
@@ -103,5 +103,13 @@ Cross-validation involves breaking a data set into k subsets (k-fold validation)
 
 
 # <p align="center"> Conclusions </p>
-
-
+- Younger people are prone to progress in the development of unreal work
+- People belonging to the eastern voivodships are more likely to develop in informal work
+- Man are more likely to declare informal work than women
+- People running a business less often decide to work informally
+- People who were working lately are more likely to declare informal work
+- People who exclude any work abroad very rarely declare participation in informal work
+- People who have a job are more likely to declare participation in informal work
+- People that search for additional job are more likely to participate in informal work
+- Married people less frequently declare taking up informal work
+- Childless people more often declare taking up informal work
